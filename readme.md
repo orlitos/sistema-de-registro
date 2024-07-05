@@ -1,3 +1,4 @@
-<h1>Sistema de registro</h1>
+<h1 align="center">Sistema de registro</h1>
 
-- Estado del proyecto: En Construcción.
+<em>- Estado del proyecto:</em> 🚧 **En Construcción**.🏗️ 
+Esto es MarkDown, el doble asterico (**) hace que el texto sea marcado en 😊 Negrilla o Negrita
