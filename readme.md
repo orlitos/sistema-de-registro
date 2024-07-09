@@ -7,3 +7,4 @@ Esto es MarkDown, el doble asterico (**) hace que el texto sea marcado en 😊 N
 Para ejecutar el sistema, debes poner:
 
 ```npm install react```
+Sistema de registro 2
